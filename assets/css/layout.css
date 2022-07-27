@@ -1,0 +1,41 @@
+body {
+  /* background: radial-gradient(#729ed8d3, #729ed846); */
+}
+
+:focus::placeholder {
+  color: #80808077;
+}
+a {
+  text-decoration: none !important;
+}
+
+input {
+  background: transparent;
+  border: none;
+  outline: none;
+  display: block;
+  border: 1.5px #8080808a solid;
+  border-radius: 0.5rem;
+  margin: 1rem;
+  padding: 0.5rem 1rem;
+  width: 92%;
+  background: white;
+  font-size: 1.2rem;
+}
+
+input:focus {
+  box-shadow: 0 0 4px 3px #8080808a;
+}
+
+.outer-layer {
+  width: 30%;
+  padding: 2rem;
+  border-radius: 0.5rem;
+}
+
+/* media queries */
+@media screen and (max-width: 768px) {
+  .outer-layer {
+    width: 60%;
+  }
+}
