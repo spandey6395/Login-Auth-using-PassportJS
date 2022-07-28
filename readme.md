@@ -21,7 +21,7 @@
 
 ##### # Get the latest snapshot
 
-`git clone https://github.com/Subhankr12/nodejs-authentication.git myproject`
+`git clone https://github.com/spandey6395/Login-Auth-using-PassportJS.git`
 
 ##### # Change directory
 
