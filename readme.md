@@ -25,7 +25,7 @@
 
 ##### # Change directory
 
-`cd myproject`
+`cd nodejs-authentication/`
 
 ##### # Install NPM dependencies
 
